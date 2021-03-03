@@ -1,0 +1,4 @@
+baseURL = "https://plantnol-homesoakuy.vercel.app"
+languageCode = "en-us"
+title = "Home Plant Decoration"
+theme = "hugo-theme-minos"
